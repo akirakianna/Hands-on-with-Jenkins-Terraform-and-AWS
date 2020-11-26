@@ -1,4 +1,7 @@
+//! This is the script the pipeline is going to run
+
 pipeline {
+  //! Usually you would add in a specifc agent you are using instead of any
     agent any
     tools {
         nodejs "nodejs"
