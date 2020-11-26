@@ -16,3 +16,6 @@ and React" to get an introduction on how to build an automated pipleline which d
     - Deploying it to an AWS autoscaling group using terraform (Infrastructure as Code).
 
 
+### Link to deployed app
+
+http://playground-gelding-2012902464.eu-west-2.elb.amazonaws.com/
